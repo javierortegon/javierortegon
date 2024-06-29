@@ -1,6 +1,7 @@
 # Hey there 👋
-<p>Welcome to my page!!! </br> I'm Javier, BackEnd developer and Teacher from 
-    <img src="https://64.media.tumblr.com/663548691539077f137256815b21eaf1/0f375a4e4200aee3-f0/s250x400/2c4d276c2311aca99d484413a799d91c59866a90.pnj" width="13"/> <b>Bogotá, Colombia.</b>
+<p>
+    Welcome to my page!!! </br></br>
+    I'm Javier, BackEnd developer and Teacher from <img src="https://64.media.tumblr.com/663548691539077f137256815b21eaf1/0f375a4e4200aee3-f0/s250x400/2c4d276c2311aca99d484413a799d91c59866a90.pnj" width="13"/>        <b>Bogotá, Colombia.</b>
 </p>
 
 ## Some Tools I Use
